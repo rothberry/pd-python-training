@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tic Tac Toe W/ AI (Python Edition)
 This README and all parts of this project build are borrowed from the original learn-co-curriculum's tic tac toe w/ai in ruby and translated to python for this project.
 
@@ -93,3 +94,10 @@ You can implement this logic within the bin/tictactoe directly or encapsulate it
 If you'd like, implement a "wargames" game type. When asked what kind of game they want to play or for the number of players, if the user types in "wargames", have the computer play itself 100 times and report how many times the game was won. This is not a requirement, it would just be fun. A perfect computer AI should never be able to win, like in the case of thermonuclear war.
 
 The rest is up to you and your team. Have fun, implement the spirit of the project, meet the requirements as you interpret them, be creative, and don't worry, there are no wrong answers with code.
+=======
+# Python Tic Tac Toe
+
+## Learning Goals
+
+Build out the Ruby TicTacToe Mini Project utilizing Python
+>>>>>>> b608d81 (start ttt)
